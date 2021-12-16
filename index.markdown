@@ -1,6 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
+author: "Hola"
 ---
+
+![logo](assets/img/ubademy.png){:class="img-responsive"}
+
+Ubademy is an app dedicated to generating online courses offering education for people.
+
+The spirit of this platform is providing a conection between people that want to learn new things and people that generate it.
