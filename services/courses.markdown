@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: /services/courses
 ---
 
 # Courses service

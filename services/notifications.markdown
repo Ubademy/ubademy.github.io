@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /services/notifications
 ---
 
 # Notifications service

@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: /services/payments
 ---
 
 # Payments service
