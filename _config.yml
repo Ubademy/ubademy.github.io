@@ -29,6 +29,7 @@ defaults:
     values:
       image: true
 
+
 # Build settings
 theme: minima
 plugins:
