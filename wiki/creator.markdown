@@ -1,6 +1,5 @@
 ---
-layout: page
-permalink: /wiki/creator
+layout: default
 ---
 
 ## Creator Wiki

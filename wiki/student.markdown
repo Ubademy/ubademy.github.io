@@ -1,6 +1,5 @@
 ---
-layout: page
-permalink: /wiki/student
+layout: default
 ---
 
 ## Student Wiki
