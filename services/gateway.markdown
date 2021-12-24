@@ -1,5 +1,6 @@
 ---
 layout: post
+exclude: true
 ---
 
 # Gateway
